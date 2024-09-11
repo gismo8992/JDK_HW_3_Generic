@@ -1,4 +1,4 @@
-package task1;
+package hw3.task1;
 
 public class Main {
     /*
