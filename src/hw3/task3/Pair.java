@@ -1,4 +1,4 @@
-package task3;
+package hw3.task3;
 
 public class Pair <T, U>{
     private T firstValue;

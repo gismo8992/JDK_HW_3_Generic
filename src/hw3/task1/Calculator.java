@@ -1,4 +1,4 @@
-package task1;
+package hw3.task1;
 
 public class Calculator {
     public static <T extends Number, U extends Number> double sum(T num1, U num2) {
